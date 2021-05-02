@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Preço do combustível por litro/1.0.0": {
+        "runtime": {
+          "Preço do combustível por litro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Preço do combustível por litro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

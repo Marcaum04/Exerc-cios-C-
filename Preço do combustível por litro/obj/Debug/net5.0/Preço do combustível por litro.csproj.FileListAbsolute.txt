@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\ref\Preço do combustível por litro.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\bin\Debug\net5.0\Preço do combustível por litro.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\ref\Preço do combustível por litro.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Preço do combustível por litro\obj\Debug\net5.0\Preço do combustível por litro.genruntimeconfig.cache
