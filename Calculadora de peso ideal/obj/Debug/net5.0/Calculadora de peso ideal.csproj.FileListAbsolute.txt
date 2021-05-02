@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\ref\Calculadora de peso ideal.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\bin\Debug\net5.0\Calculadora de peso ideal.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\ref\Calculadora de peso ideal.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Calculadora de peso ideal\obj\Debug\net5.0\Calculadora de peso ideal.genruntimeconfig.cache
