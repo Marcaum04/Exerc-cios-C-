@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\ref\Ajustador de salário.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\bin\Debug\net5.0\Ajustador de salário.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\ref\Ajustador de salário.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Ajustador de salário\obj\Debug\net5.0\Ajustador de salário.genruntimeconfig.cache
