@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\ref\Switch e case.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\bin\Debug\net5.0\Switch e case.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\ref\Switch e case.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Switch e case\obj\Debug\net5.0\Switch e case.genruntimeconfig.cache
