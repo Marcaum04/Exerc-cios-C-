@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\ref\Categorizador de nadadores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\bin\Debug\net5.0\Categorizador de nadadores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\ref\Categorizador de nadadores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Categorizador de nadadores\obj\Debug\net5.0\Categorizador de nadadores.genruntimeconfig.cache
