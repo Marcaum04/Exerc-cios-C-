@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\ref\Verfifcador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\bin\Debug\net5.0\Verfifcador de números.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\ref\Verfifcador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Verfifcador de números\obj\Debug\net5.0\Verfifcador de números.genruntimeconfig.cache
