@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\ref\Comparador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\bin\Debug\net5.0\Comparador de números.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\ref\Comparador de números.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Comparador de números\obj\Debug\net5.0\Comparador de números.genruntimeconfig.cache
