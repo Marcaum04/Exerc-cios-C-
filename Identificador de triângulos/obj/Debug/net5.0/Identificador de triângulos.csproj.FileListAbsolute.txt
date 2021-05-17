@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\ref\Identificador de triângulos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\bin\Debug\net5.0\Identificador de triângulos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\ref\Identificador de triângulos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Identificador de triângulos\obj\Debug\net5.0\Identificador de triângulos.genruntimeconfig.cache

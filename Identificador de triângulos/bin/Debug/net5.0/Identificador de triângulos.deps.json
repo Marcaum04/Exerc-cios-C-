@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Identificador de triângulos/1.0.0": {
+        "runtime": {
+          "Identificador de triângulos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Identificador de triângulos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
