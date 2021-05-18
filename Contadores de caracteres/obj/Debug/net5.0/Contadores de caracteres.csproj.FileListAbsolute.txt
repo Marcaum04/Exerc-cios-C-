@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\ref\Contadores de caracteres.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\bin\Debug\net5.0\Contadores de caracteres.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\ref\Contadores de caracteres.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Extras\Exercicios C#\Contadores de caracteres\obj\Debug\net5.0\Contadores de caracteres.genruntimeconfig.cache
